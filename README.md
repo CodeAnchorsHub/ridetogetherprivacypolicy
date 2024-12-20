@@ -1,4 +1,4 @@
-# Privacy Policy for [Your App Name]
+# Privacy Policy for RideTogether
 
 ## 1. Information We Collect
 When you use our app, we may collect the following types of information:
